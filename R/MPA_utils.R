@@ -24,7 +24,7 @@ read_pathway_data <- function(file_name){
 
 compute_pathway_score <- function(expr_data, pathway_data){
   pert_score <- 0
-  # compute perturbation score
+  # compute perturbation score using expression data and pathway data
   return(pert_score)
 }
 
