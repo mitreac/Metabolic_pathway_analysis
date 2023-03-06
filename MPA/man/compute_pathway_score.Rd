@@ -9,7 +9,7 @@ compute_pathway_score(expr_data, pathway_data)
 }
 \arguments{
 \item{expr_data}{the metabolite level data - data frame with metabolite average values for condition and control
-rows are metabolites, rownames are metabolites idsand 2 columns condition and control}
+rows are metabolites, rownames are metabolites ids and 2 columns condition and control}
 
 \item{pathway_data}{the pathway data in a SBML format - this will be a custom structure}
 }

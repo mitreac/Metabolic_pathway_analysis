@@ -2,9 +2,12 @@
 
 export(MPA_analysis)
 export(compute_pathway_score)
+export(compute_reaction_score)
 export(get_pathway_files)
 export(hello)
 export(hello2)
 export(read_expression_data)
 export(read_pathway_data)
 import(dplyr)
+import(utils)
+importFrom(utils,read.table)
